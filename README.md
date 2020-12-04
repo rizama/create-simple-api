@@ -14,9 +14,11 @@ npm install -g create-simple-api
 
 ```sh
 # with global install
-create-simple-api [name-of-app]
+create-simple-api name-of-api [-y|--yarn]
 # with npx
-npx create-simple-api [name-of-app]
+npx create-simple-api name-of-api [-y|--yarn]
+# with yarn
+yarn create express-api name-of-api [-y|--yarn]
 ```
 
 This will create a directory with the given name, clone the [Simple API starter](https://github.com/rizama/simple-api-starter) repo into it, and install dependencies.
