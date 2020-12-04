@@ -1,6 +1,6 @@
 {
   "name": "create-simple-api",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "bin": {
     "create-express-api": "index.js"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/rizama/simple-api-starter.git"
   },
-  "keywords": [],
+  "keywords": ["express", "nodejs", "api"],
   "author": "RSP <rizkysampratama@gmail.com>",
   "license": "MIT"
 }
