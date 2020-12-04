@@ -1,0 +1,19 @@
+{
+  "name": "create-simple-api",
+  "version": "1.0.0",
+  "bin": {
+    "create-express-api": "index.js"
+  },
+  "description": "A CLI to automatically clone the Express API Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rizama/simple-api-starter.git"
+  },
+  "keywords": [],
+  "author": "RSP <rizkysampratama@gmail.com>",
+  "license": "MIT"
+}
