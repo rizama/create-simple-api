@@ -1,4 +1,4 @@
-# create-express-api
+# create-simple-api
 
 A CLI to automatically clone the [Simple API Starter](https://github.com/rizama/simple-api-starter).
 
